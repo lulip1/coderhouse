@@ -1,0 +1,13 @@
+@mixin button($bgcolor, $fontcolor, $fontsize) {
+    background-color: $bgcolor;
+    color: $fontcolor;
+    width: 150px;
+    height: 40px;
+    border-radius: 3px;
+    font-family: roboto;
+    font-size: $fontsize;
+}
+
+.btn-prueba-mixin {
+    @include button(#3579F7,white,15px);
+}

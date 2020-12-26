@@ -1,0 +1,3 @@
+npm run biuld-css este es para compilar
+
+npm run watch-css este se ejecuta solo cada vez que guardamos un archivo de sass. Se ejecuta solo y cambia el css solo
