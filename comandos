@@ -10,3 +10,6 @@ git log
 git checkout
 git log --oneline
 
+git branch 
+git branch -l
+git checkout // me permite moverme entre ramas 
